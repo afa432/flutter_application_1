@@ -2,4 +2,4 @@
 
 
 Mobil Geliştirme flutter ödevidir
-
+ödevin raporu ve çalışır halde gösterilmiş videosu “Ödev Raporu ve videosu” klasoründedir
